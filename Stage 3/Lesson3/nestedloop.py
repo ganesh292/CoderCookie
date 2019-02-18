@@ -12,7 +12,7 @@ print() # This is for a new line
 #    print()
 
 ###Single loop
-for j in range(1,11):
+for j in range(3,15):
     print(str(a)+" X "+str(j)+" = "+str(a*j))
 
 ###Using While loop
